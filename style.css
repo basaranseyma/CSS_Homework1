@@ -1,0 +1,44 @@
+body {
+    background-color: #FDF4F5;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #e391b5;
+    text-align: center;
+    font-size: 50px;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    text-decoration: underline;
+    color: #9336B4;
+    margin: 0 15px;
+    font-size: 1.1em;
+  }
+
+h2 {
+    text-align: center;
+    color: #916DB3;
+    font-size: 32px;
+}
+
+h3 {
+    color: #75C2F6;
+}
+
+  
+ol {
+    text-align: center;
+    list-style-position: inside;
+  }
+
+
+.about-us h3,
+.about-us p {
+  text-align: left;
+}
